@@ -1,3 +1,8 @@
+Description:
+Series of Python scripts as GH definitions allowing Graph Machine Learning within the Rhino|Grasshopper ecosystem.
+
+
+########################################################
 Setup for using Python inside Rhino 8 and GH:
 
 1. Install python 3.9.10 to operating system
