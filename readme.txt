@@ -9,7 +9,7 @@ Setup for using Python inside Rhino 8 and GH:
 https://www.python.org/downloads/release/python-3910/
 
 2. Go to GH environment folder using the Windows Command Prompt (type cdm in search box)
-cd C:\Users\username\.rhinocode\py39-rh8\Scripts
+cd C:\Users\<username>\.rhinocode\py39-rh8\Scripts
 
 3. Install library packages from here using command prompt in Windows
 ex. pip install matplotlib
